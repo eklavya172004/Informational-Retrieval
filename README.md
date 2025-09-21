@@ -1,7 +1,7 @@
 # Informational-Retrieval
 Informational Retrieval project: This is a project submitted by three students. 
 
-File Content Description:
+**File Content Description:**
 
 Corpus: The folder contains the corpus used for the boolean retrieval model.
 
